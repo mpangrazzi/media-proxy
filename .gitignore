@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+
+tmp/
+downloads/
+
+*.log
+
+.DS_Store

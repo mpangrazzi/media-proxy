@@ -1,0 +1,13 @@
+{
+  "name": "media-proxy",
+  "version": "1.0.0",
+  "description": "A simple HTTP proxy which automatically saves to disk all audio/mpeg requests",
+  "main": "index.js",
+  "author": "Michele Pangrazzi <xmikex83@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "id3js": "^1.1.3",
+    "node-notifier": "^4.0.3",
+    "request": "^2.51.0"
+  }
+}
